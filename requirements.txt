@@ -1,1 +1,3 @@
 fastapi[all]
+httpx==0.24.1
+uvicorn==0.22.0
